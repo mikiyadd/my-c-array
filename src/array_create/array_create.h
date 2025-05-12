@@ -1,7 +1,7 @@
 // memory
-#include <utility/memory/memory_allocation/memory_allocation.h>
-#include <utility/memory/memory_allocation_soft/memory_allocation_soft.h>
-#include <utility/memory/memory_destroy/memory_destroy.h>
+#include <utility/memory/malloc/malloc.h>
+#include <utility/memory/malloc/malloc.h>
+#include <utility/memory/free(/free(.h>
 // array
 #include <utility/array/type.h>
 
