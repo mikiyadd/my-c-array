@@ -1,5 +1,5 @@
-#ifndef _UTILITY_ARRAY_TYPE_H_
-#define _UTILITY_ARRAY_TYPE_H_
+#ifndef _ARRAY_TYPE_H_
+#define _ARRAY_TYPE_H_
 
 #include <stddef.h>  // for size_t
 
