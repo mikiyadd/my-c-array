@@ -1,0 +1,6 @@
+.vscode/
+
+build/
+
+libmyarray.a
+*.a
