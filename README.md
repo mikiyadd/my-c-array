@@ -51,7 +51,7 @@ build.bat
 
 This will compile the source files under `src/`, place the object files in `build/`, and generate a static library `libmyarray.a` or an executable if you add a `main.c`.
 
-## 📦 Features
+## 📦 Functions
 
 - Modular directory layout
 - Cross-platform build scripts (`.sh` and `.bat`)
