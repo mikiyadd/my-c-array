@@ -2,6 +2,17 @@
 
 Dynamic array implementation in C with a modular, folder-based structure.
 
+## 🔧 Features
+
+- **🧩 Modular Operations:** Efficient functions for array append, prepend, resize, delete, and access.
+- **🛠️ Custom Memory Management:** Define custom free functions for array element deallocation.
+- **🔓 Expandable:** Easily extendable with additional array-related functions.
+- **🌍 Cross-Platform:** Build scripts for both Linux (bash or make) and Windows (batch).
+- **📂 Organized Structure:** Each module is in its own directory for easy maintenance.
+- **📚 Static Library:** Compiles into libmyarray.a for easy reuse in other projects.
+- **⚙️ C Standard:** Written in pure C for maximum compatibility.
+- **🚀 Easy to Build:** Simple setup for compiling and integrating into other projects.
+
 ## 🗂️ Suggested Directory Layout
 
 ```
