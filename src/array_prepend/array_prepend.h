@@ -1,5 +1,8 @@
-#include <utility/array/type.h>
-#include <utility/array/array_resize/array_resize.h>
-#include <utility/memory/memory_move/memory_move.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#include <type.h>
+#include <array_resize/array_resize.h>
 
 int array_prepend(array_t* array, void* item);

@@ -1,4 +1,6 @@
-#include <utility/array/type.h>
-#include <utility/memory/memory_realloc/memory_realloc.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+#include <type.h>
 
 int array_resize(array_t* array, size_t new_capacity);

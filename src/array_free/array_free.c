@@ -1,4 +1,4 @@
-#include <utility/array/array_free/array_free.h>
+#include <array_free/array_free.h>
 
 void array_free(array_t* array)
 {

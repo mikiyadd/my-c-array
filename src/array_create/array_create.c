@@ -1,4 +1,4 @@
-#include <utility/array/array_create/array_create.h>
+#include <array_create/array_create.h>
 
 array_t* array_create(array_free_func_t freer)
 {

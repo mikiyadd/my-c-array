@@ -1,6 +1,7 @@
-// array
-#include <utility/array/type.h>
-// memory
-#include <utility/memory/memory_move/memory_move.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#include <type.h>
 
 int array_delete(array_t* array, size_t index);

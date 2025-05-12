@@ -1,4 +1,4 @@
-#include <utility/array/array_append/array_append.h>
+#include <array_append/array_append.h>
 
 int array_append(array_t* array, void* item)
 {
